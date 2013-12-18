@@ -75,14 +75,14 @@ OpenSpending.Styles.Cofog = {
   '10-44-45': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#790586' },
   '10-44-46': { icon: 'icons/pig.svg', color: '#C75746', bcolor: '#790586' },
   '10-47': { icon: 'icons/books.svg', color: '#C75746', bcolor: '#790586' },
-  '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '11-48': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '12': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' }
+  '12': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
   '12-49': { icon: 'icons/public-debt.svg', color: '#C75746', bcolor: '#790586' },
-  '13': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
+  '13': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
   '13-50': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
   '13-51': { icon: 'icons/nuclear.svg', color: '#C75746', bcolor: '#790586' },
-  '13-52': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' },  
+  '13-52': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#790586' },
   '14': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#790586' },
   '14-53': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#790586' }
 };
